@@ -1,8 +1,8 @@
-# Single-Page-CV-roadmap.sh-project-1
+# Roadmap.sh Frontend Projects
 
-**Project Overview**
+**Projects Overview**
 
-This repository contains my first [roadmap.sh project](https://roadmap.sh/projects/single-page-cv)
+The first [roadmap.sh project](https://roadmap.sh/projects/single-page-cv)
 
 **Technologies Used**
 HTML5
